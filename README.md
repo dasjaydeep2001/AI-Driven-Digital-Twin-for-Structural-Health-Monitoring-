@@ -11,5 +11,5 @@ Here’s a breakdown of how this works:
 
 🔹 3. Real-Time Monitoring: The goal is to develop an efficient ANN-based surrogate model that can help monitor the health of bridges and other critical structures in real time, without having to rely solely on complex simulations.
 
-![Digital Twin](C:\Users\user\Downloads\Reference.png)
+![Reference](C:\Users\user\Downloads\Reference.png)
 
