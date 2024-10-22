@@ -1,5 +1,6 @@
 # AI-Driven-Digital-Twin-for-Structural-Health-Monitoring-
 This project aims to revolutionize structural health monitoring by leveraging Artificial Intelligence (AI), specifically Artificial Neural Networks (ANN), combined with Digital Twin technology. Our goal is to develop a fast-response surrogate model capable of providing real-time safety insights for critical infrastructure, such as bridges and reinforced concrete structures.
+
  🛠️ The Concept: Imagine a digital twin—a virtual replica of a physical structure—that constantly communicates with the real structure, helping us predict and assess safety, durability, and reliability. My goal is to develop a fast-response surrogate model using Artificial Neural Networks (ANN), which will provide critical safety insights in real time! 🔄
 
 Here’s a breakdown of how this works:
